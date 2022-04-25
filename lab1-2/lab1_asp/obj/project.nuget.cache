@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uotkokW0+dFrfspryEJw+PqXSlHH1IE9JE0Jjd+Tt2D/GWFCy2LYW8oTX0gQkX+ZkHO07B9FY+jb0Tr8VpjZtQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bogdan\\OneDrive - Technical Lyceum NTUU KPI\\Навчання\\2курс\\ASP.NET\\Лаби_asp\\Лаб1_asp\\lab1_asp\\lab1_asp\\lab1_asp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bogdan\\.nuget\\packages\\opencover\\4.7.1221\\opencover.4.7.1221.nupkg.sha512"
+  ],
+  "logs": []
+}

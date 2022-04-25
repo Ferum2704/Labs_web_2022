@@ -1,0 +1,246 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Bogdan\\OneDrive - Technical Lyceum NTUU KPI\\Навчання\\2курс\\ASP.NET\\Лаби_asp\\Лаб1_asp\\lab1_asp\\TestProject1\\TestProject1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Bogdan\\OneDrive - Technical Lyceum NTUU KPI\\Навчання\\2курс\\ASP.NET\\Лаби_asp\\Лаб1_asp\\lab1_asp\\DictionaryLib\\DictionaryLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bogdan\\OneDrive - Technical Lyceum NTUU KPI\\Навчання\\2курс\\ASP.NET\\Лаби_asp\\Лаб1_asp\\lab1_asp\\DictionaryLib\\DictionaryLib.csproj",
+        "projectName": "DictionaryLib",
+        "projectPath": "C:\\Users\\Bogdan\\OneDrive - Technical Lyceum NTUU KPI\\Навчання\\2курс\\ASP.NET\\Лаби_asp\\Лаб1_asp\\lab1_asp\\DictionaryLib\\DictionaryLib.csproj",
+        "packagesPath": "C:\\Users\\Bogdan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bogdan\\OneDrive - Technical Lyceum NTUU KPI\\Навчання\\2курс\\ASP.NET\\Лаби_asp\\Лаб1_asp\\lab1_asp\\DictionaryLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Bogdan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Bogdan\\OneDrive - Technical Lyceum NTUU KPI\\Навчання\\2курс\\ASP.NET\\Лаби_asp\\Лаб1_asp\\lab1_asp\\LinkedListLibrary\\LinkedListLibrary.csproj": {
+                "projectPath": "C:\\Users\\Bogdan\\OneDrive - Technical Lyceum NTUU KPI\\Навчання\\2курс\\ASP.NET\\Лаби_asp\\Лаб1_asp\\lab1_asp\\LinkedListLibrary\\LinkedListLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "OpenCover": {
+              "target": "Package",
+              "version": "[4.7.1221, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Bogdan\\OneDrive - Technical Lyceum NTUU KPI\\Навчання\\2курс\\ASP.NET\\Лаби_asp\\Лаб1_asp\\lab1_asp\\LinkedListLibrary\\LinkedListLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bogdan\\OneDrive - Technical Lyceum NTUU KPI\\Навчання\\2курс\\ASP.NET\\Лаби_asp\\Лаб1_asp\\lab1_asp\\LinkedListLibrary\\LinkedListLibrary.csproj",
+        "projectName": "LinkedListLibrary",
+        "projectPath": "C:\\Users\\Bogdan\\OneDrive - Technical Lyceum NTUU KPI\\Навчання\\2курс\\ASP.NET\\Лаби_asp\\Лаб1_asp\\lab1_asp\\LinkedListLibrary\\LinkedListLibrary.csproj",
+        "packagesPath": "C:\\Users\\Bogdan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bogdan\\OneDrive - Technical Lyceum NTUU KPI\\Навчання\\2курс\\ASP.NET\\Лаби_asp\\Лаб1_asp\\lab1_asp\\LinkedListLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Bogdan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "OpenCover": {
+              "target": "Package",
+              "version": "[4.7.1221, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Bogdan\\OneDrive - Technical Lyceum NTUU KPI\\Навчання\\2курс\\ASP.NET\\Лаби_asp\\Лаб1_asp\\lab1_asp\\TestProject1\\TestProject1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bogdan\\OneDrive - Technical Lyceum NTUU KPI\\Навчання\\2курс\\ASP.NET\\Лаби_asp\\Лаб1_asp\\lab1_asp\\TestProject1\\TestProject1.csproj",
+        "projectName": "TestProject1",
+        "projectPath": "C:\\Users\\Bogdan\\OneDrive - Technical Lyceum NTUU KPI\\Навчання\\2курс\\ASP.NET\\Лаби_asp\\Лаб1_asp\\lab1_asp\\TestProject1\\TestProject1.csproj",
+        "packagesPath": "C:\\Users\\Bogdan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bogdan\\OneDrive - Technical Lyceum NTUU KPI\\Навчання\\2курс\\ASP.NET\\Лаби_asp\\Лаб1_asp\\lab1_asp\\TestProject1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Bogdan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Bogdan\\OneDrive - Technical Lyceum NTUU KPI\\Навчання\\2курс\\ASP.NET\\Лаби_asp\\Лаб1_asp\\lab1_asp\\DictionaryLib\\DictionaryLib.csproj": {
+                "projectPath": "C:\\Users\\Bogdan\\OneDrive - Technical Lyceum NTUU KPI\\Навчання\\2курс\\ASP.NET\\Лаби_asp\\Лаб1_asp\\lab1_asp\\DictionaryLib\\DictionaryLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "OpenCover": {
+              "target": "Package",
+              "version": "[4.7.1221, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.abstractions": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "xunit.analyzers": {
+              "target": "Package",
+              "version": "[0.10.0, )"
+            },
+            "xunit.assert": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.core": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.extensibility.core": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.extensibility.execution": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.console": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

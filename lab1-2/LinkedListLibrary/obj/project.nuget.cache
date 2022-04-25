@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kt2R+aAACVmGfbQZdjG6HHcTPZAM9rqLq+6xNI96dWubQjd1amwDPK8B2jLRIDyK6Nu/yhejLaNleMhaMpBG5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bogdan\\OneDrive - Technical Lyceum NTUU KPI\\Навчання\\2курс\\ASP.NET\\Лаби_asp\\Лаб1_asp\\lab1_asp\\LinkedListLibrary\\LinkedListLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bogdan\\.nuget\\packages\\opencover\\4.7.1221\\opencover.4.7.1221.nupkg.sha512"
+  ],
+  "logs": []
+}

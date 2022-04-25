@@ -1,0 +1,24 @@
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\LinkedListLibrary\bin\Debug\net5.0\LinkedListLibrary.deps.json
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\LinkedListLibrary\bin\Debug\net5.0\LinkedListLibrary.dll
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\LinkedListLibrary\bin\Debug\net5.0\LinkedListLibrary.pdb
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\LinkedListLibrary\obj\Debug\net5.0\LinkedListLibrary.csproj.AssemblyReference.cache
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\LinkedListLibrary\obj\Debug\net5.0\LinkedListLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\LinkedListLibrary\obj\Debug\net5.0\LinkedListLibrary.AssemblyInfoInputs.cache
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\LinkedListLibrary\obj\Debug\net5.0\LinkedListLibrary.AssemblyInfo.cs
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\LinkedListLibrary\obj\Debug\net5.0\LinkedListLibrary.csproj.CoreCompileInputs.cache
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\LinkedListLibrary\obj\Debug\net5.0\LinkedListLibrary.dll
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\LinkedListLibrary\obj\Debug\net5.0\ref\LinkedListLibrary.dll
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\LinkedListLibrary\obj\Debug\net5.0\LinkedListLibrary.pdb
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\LinkedListLibrary\obj\Debug\net5.0\refint\LinkedListLibrary.dll
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\LinkedListLibrary\bin\Debug\net5.0\LinkedListLibrary.deps.json
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\LinkedListLibrary\bin\Debug\net5.0\LinkedListLibrary.dll
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\LinkedListLibrary\bin\Debug\net5.0\LinkedListLibrary.pdb
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\LinkedListLibrary\obj\Debug\net5.0\LinkedListLibrary.csproj.AssemblyReference.cache
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\LinkedListLibrary\obj\Debug\net5.0\LinkedListLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\LinkedListLibrary\obj\Debug\net5.0\LinkedListLibrary.AssemblyInfoInputs.cache
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\LinkedListLibrary\obj\Debug\net5.0\LinkedListLibrary.AssemblyInfo.cs
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\LinkedListLibrary\obj\Debug\net5.0\LinkedListLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\LinkedListLibrary\obj\Debug\net5.0\LinkedListLibrary.dll
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\LinkedListLibrary\obj\Debug\net5.0\refint\LinkedListLibrary.dll
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\LinkedListLibrary\obj\Debug\net5.0\LinkedListLibrary.pdb
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\LinkedListLibrary\obj\Debug\net5.0\ref\LinkedListLibrary.dll

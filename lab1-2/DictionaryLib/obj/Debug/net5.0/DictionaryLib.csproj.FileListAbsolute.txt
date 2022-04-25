@@ -1,0 +1,30 @@
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\DictionaryLib\bin\Debug\net5.0\DictionaryLib.deps.json
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\DictionaryLib\bin\Debug\net5.0\DictionaryLib.dll
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\DictionaryLib\bin\Debug\net5.0\DictionaryLib.pdb
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\DictionaryLib\obj\Debug\net5.0\DictionaryLib.csproj.AssemblyReference.cache
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\DictionaryLib\obj\Debug\net5.0\DictionaryLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\DictionaryLib\obj\Debug\net5.0\DictionaryLib.AssemblyInfoInputs.cache
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\DictionaryLib\obj\Debug\net5.0\DictionaryLib.AssemblyInfo.cs
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\DictionaryLib\obj\Debug\net5.0\DictionaryLib.csproj.CoreCompileInputs.cache
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\DictionaryLib\obj\Debug\net5.0\DictionaryLib.dll
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\DictionaryLib\obj\Debug\net5.0\ref\DictionaryLib.dll
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\DictionaryLib\obj\Debug\net5.0\DictionaryLib.pdb
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\DictionaryLib\bin\Debug\net5.0\LinkedListLibrary.dll
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\DictionaryLib\bin\Debug\net5.0\LinkedListLibrary.pdb
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\DictionaryLib\obj\Debug\net5.0\DictionaryLib.csproj.CopyComplete
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\DictionaryLib\obj\Debug\net5.0\refint\DictionaryLib.dll
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\DictionaryLib\bin\Debug\net5.0\DictionaryLib.deps.json
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\DictionaryLib\bin\Debug\net5.0\DictionaryLib.dll
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\DictionaryLib\bin\Debug\net5.0\DictionaryLib.pdb
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\DictionaryLib\bin\Debug\net5.0\LinkedListLibrary.dll
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\DictionaryLib\bin\Debug\net5.0\LinkedListLibrary.pdb
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\DictionaryLib\obj\Debug\net5.0\DictionaryLib.csproj.AssemblyReference.cache
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\DictionaryLib\obj\Debug\net5.0\DictionaryLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\DictionaryLib\obj\Debug\net5.0\DictionaryLib.AssemblyInfoInputs.cache
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\DictionaryLib\obj\Debug\net5.0\DictionaryLib.AssemblyInfo.cs
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\DictionaryLib\obj\Debug\net5.0\DictionaryLib.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\DictionaryLib\obj\Debug\net5.0\DictionaryLib.csproj.CopyComplete
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\DictionaryLib\obj\Debug\net5.0\DictionaryLib.dll
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\DictionaryLib\obj\Debug\net5.0\refint\DictionaryLib.dll
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\DictionaryLib\obj\Debug\net5.0\DictionaryLib.pdb
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\DictionaryLib\obj\Debug\net5.0\ref\DictionaryLib.dll

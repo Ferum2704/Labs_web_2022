@@ -1,0 +1,42 @@
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\bin\Debug\net5.0\lab1_asp.exe
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\bin\Debug\net5.0\lab1_asp.deps.json
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\bin\Debug\net5.0\lab1_asp.runtimeconfig.json
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\bin\Debug\net5.0\lab1_asp.runtimeconfig.dev.json
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\bin\Debug\net5.0\lab1_asp.dll
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\bin\Debug\net5.0\lab1_asp.pdb
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\obj\Debug\net5.0\lab1_asp.csproj.AssemblyReference.cache
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\obj\Debug\net5.0\lab1_asp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\obj\Debug\net5.0\lab1_asp.AssemblyInfoInputs.cache
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\obj\Debug\net5.0\lab1_asp.AssemblyInfo.cs
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\obj\Debug\net5.0\lab1_asp.csproj.CoreCompileInputs.cache
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\obj\Debug\net5.0\lab1_asp.dll
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\obj\Debug\net5.0\ref\lab1_asp.dll
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\obj\Debug\net5.0\lab1_asp.pdb
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\obj\Debug\net5.0\lab1_asp.genruntimeconfig.cache
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\bin\Debug\net5.0\DictionaryLib.dll
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\bin\Debug\net5.0\LinkedListLibrary.dll
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\bin\Debug\net5.0\DictionaryLib.pdb
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\bin\Debug\net5.0\LinkedListLibrary.pdb
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\obj\Debug\net5.0\lab1_asp.csproj.CopyComplete
+C:\Bogdan\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\obj\Debug\net5.0\refint\lab1_asp.dll
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\bin\Debug\net5.0\lab1_asp.exe
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\bin\Debug\net5.0\lab1_asp.deps.json
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\bin\Debug\net5.0\lab1_asp.runtimeconfig.json
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\bin\Debug\net5.0\lab1_asp.runtimeconfig.dev.json
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\bin\Debug\net5.0\lab1_asp.dll
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\bin\Debug\net5.0\lab1_asp.pdb
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\bin\Debug\net5.0\DictionaryLib.dll
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\bin\Debug\net5.0\LinkedListLibrary.dll
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\bin\Debug\net5.0\DictionaryLib.pdb
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\bin\Debug\net5.0\LinkedListLibrary.pdb
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\obj\Debug\net5.0\lab1_asp.csproj.AssemblyReference.cache
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\obj\Debug\net5.0\lab1_asp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\obj\Debug\net5.0\lab1_asp.AssemblyInfoInputs.cache
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\obj\Debug\net5.0\lab1_asp.AssemblyInfo.cs
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\obj\Debug\net5.0\lab1_asp.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\obj\Debug\net5.0\lab1_asp.csproj.CopyComplete
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\obj\Debug\net5.0\lab1_asp.dll
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\obj\Debug\net5.0\refint\lab1_asp.dll
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\obj\Debug\net5.0\lab1_asp.pdb
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\obj\Debug\net5.0\lab1_asp.genruntimeconfig.cache
+C:\Users\Bogdan\OneDrive - Technical Lyceum NTUU KPI\Навчання\2курс\ASP.NET\Лаби_asp\Лаб1_asp\lab1_asp\lab1_asp\obj\Debug\net5.0\ref\lab1_asp.dll
